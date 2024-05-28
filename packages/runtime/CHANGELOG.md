@@ -1,5 +1,13 @@
 # nxjs-runtime
 
+## 0.0.47
+
+### Patch Changes
+
+- Make touch events cancelable / bubble ([`0e2ea688d3dc365cc480af8c475d0a25fb8d99e8`](https://github.com/TooTallNate/nx.js/commit/0e2ea688d3dc365cc480af8c475d0a25fb8d99e8))
+
+- Return `null` for invalid rendering context in `screen.getContext()` ([`c21f2ff8fa114bd184aad0a81ad737104d34b099`](https://github.com/TooTallNate/nx.js/commit/c21f2ff8fa114bd184aad0a81ad737104d34b099))
+
 ## 0.0.46
 
 ### Patch Changes
